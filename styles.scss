@@ -1,3 +1,15 @@
-.foo {
-    font-size: 10rem;
-  }
+@import './styles/reset.scss';
+@import './styles/font.scss';
+@import './styles/config.scss';
+@import './styles/basic.scss';
+@import './styles/button.scss';
+@import './styles/fade.scss';
+@import './styles/layout.scss';
+@import './styles/header.scss';
+@import './styles/nav.scss';
+@import './styles/main.scss';
+@import './styles/footer.scss';
+@import './styles/box.scss';
+@import './styles/open.scss';
+@import './styles/matsedill.scss';
+@import './styles/pontunarform.scss';
